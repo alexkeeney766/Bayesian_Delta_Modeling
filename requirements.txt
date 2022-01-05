@@ -1,0 +1,9 @@
+pandas>=1.0.0
+altair>=4.0.0
+theano==1.0.4
+theano-pymc==1.1.2
+pymc3==3.11.0
+arviz==0.11.4
+numpy>=1.18.0
+ipython>=7.29.0
+ipykernel>=4.9.0
